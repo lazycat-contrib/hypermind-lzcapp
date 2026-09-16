@@ -1,0 +1,15 @@
+package: community.lazycat.app.hypermind
+version: 1.0.1
+name: HyperMind
+description: "HyperMind - AI-powered chat and mapping application"
+min_os_version: "1.5.0"
+license: MIT
+homepage: https://github.com/lklynet/hypermind
+author: lklynet
+locales:
+  zh:
+    name: "HyperMind"
+    description: "一个完全去中心化的点对点部署计数器和临时聊天平台"
+  en:
+    name: "HyperMind"
+    description: "a completely decentralized, Peer-to-Peer deployment counter and ephemeral chat platform"
